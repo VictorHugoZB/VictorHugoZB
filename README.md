@@ -1,4 +1,21 @@
-### Hi there 👋
+# Welcome!
+
+## I'm Victor Hugo Zaninette Bernardino!
+
+:man_student: I'm a computer science student at Federal University of ABC
+
+:computer: I'm also studying fullstack development.
+
+:outbox_tray: 2021/2022 Goals: Find a intership opportunity and create new projects to increase my GitHub portifolium.
+
+ 
+## Projects:
+
+Page about me: http://victorhugozb.infinityfreeapp.com - Repository: https://github.com/VictorHugoZB/Project-Me
+
+Snake using HTML/CSS/Js: http://victorhugozbsnake.epizy.com - Repository: https://github.com/VictorHugoZB/snake
+
+Thanks for visiting.
 
 <!--
 **VictorHugoZB/VictorHugoZB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
