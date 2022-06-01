@@ -11,9 +11,9 @@
  
 ## Projects:
 
-Page about me: http://victorhugozb.infinityfreeapp.com - Repository: https://github.com/VictorHugoZB/Project-Me
+Repository: https://github.com/VictorHugoZB/Project-Me
 
-Snake using HTML/CSS/Js: http://victorhugozbsnake.epizy.com - Repository: https://github.com/VictorHugoZB/snake
+Repository: https://github.com/VictorHugoZB/snake
 
 Thanks for visiting.
 
