@@ -12,10 +12,8 @@
 ## Projects:
 
 Repository: https://github.com/VictorHugoZB/snake
-Deploy: https://snake.victorhugozb.com.br/
 
 Repository: https://github.com/VictorHugoZB/netflix-clone
-Deploy: https://netflix.victorhugozb.com.br/
 
 Thanks for visiting.
 
