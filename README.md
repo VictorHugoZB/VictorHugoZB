@@ -5,9 +5,6 @@
 :man_student: I'm a computer science student at Federal University of ABC
 
 :computer: I'm also studying fullstack development.
-
-:outbox_tray: 2021/2022 Goals: Find a intership opportunity and create new projects to increase my GitHub portifolium.
-
  
 ## Projects:
 
