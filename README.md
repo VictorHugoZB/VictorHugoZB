@@ -1,16 +1,20 @@
-# Welcome!
+# Seja bem-vindo!
 
-## I'm Victor Hugo Zaninette Bernardino!
+## Eu sou o Victor Hugo Zaninette Bernardino!
 
-:man_student: I'm a computer science student at Federal University of ABC
+:man_student: Formado em Bacharelado em Ciência da Computação pela Universidade Federal do ABC
 
-:computer: I'm also studying fullstack development.
+:computer: Estudo desenvolvimento Fullstack com tecnologias como: HTML, CSS, Javascript, Typescript, React.js e Next.js, Node.js e Nest.js, PostgreSQL.
+
+🎯: Busco me reinserir no mercado de trabalho, atuando em um time de desenvolvimento ao qual eu possa colaborar e aperfeiçoar cada vez mais minhas habilidades e conhecimentos.
  
 ## Projects:
 
 Repository: https://github.com/VictorHugoZB/snake
+Deploy: https://snake.victorhugozb.com.br
 
 Repository: https://github.com/VictorHugoZB/netflix-clone
+Deploy: https://beeflix.victorhugozb.com.br
 
 Thanks for visiting.
 
